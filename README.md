@@ -1,5 +1,6 @@
 # JAMF_Related
 
+#Kickstart_ARD
 Kickstart script will open up the sharing settings for ARD and VNC
 
 #CDPR_Dialog_SS
